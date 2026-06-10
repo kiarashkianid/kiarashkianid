@@ -1,7 +1,7 @@
-# Hi, I'm Kiarash Kianidehkordi 👋
+# Hi, I'm Kiarash 👋
 
 **Statistics & Cognitive Science (Computational Stream)** @ University of Toronto · Math minor
-Applied ML · data science
+Interested in Applied ML · data science
 
 
 📫 **kiarash.kianidehkordi@mail.utoronto.ca**
@@ -24,7 +24,7 @@ Applied ML · data science
 `PostgreSQL` · `SQL` · `ChromaDB` (vector) · vector databases
 
 **Certifications**
-CUDA Programming · Machine Learning for Production · Deep Learning
+CUDA Accelerated Computing · Machine Learning for Production · Deep Learning
 
 ---
 
@@ -42,7 +42,7 @@ Engineered tremor-specific features from wrist-worn accelerometer data (400+ par
 
 ### 📓 Recall — Local Journal with Semantic Search & Weekly AI Analysis
 A local desktop journaling app where every entry is embedded into a ChromaDB vector store for semantic search across past entries. Built a RAG pipeline with a CrewAI agent (OpenAI API) that uses the journal as a `search_journal` tool to generate weekly reflections and answer freeform questions, designed to reduce hallucinations.
-**Tech:** `Python` · `Tkinter` · `ChromaDB` · `CrewAI` · `OpenAI API` — RAG
+**Tech:** `Python` · `PostgresSQL`· `Tkinter` · `ChromaDB` · `CrewAI` · `OpenAI API` — RAG
 🔗 [Repo](#)
 
 ### 🎲 Hidden Costs of Sports Gambling — Data Dashboard
@@ -52,7 +52,7 @@ An interactive dashboard surfacing the hidden costs of sports gambling for a gen
 
 ### 🌆 CityScope — Weather-Aware Urban Exploration App
 A Java desktop app that integrates the OpenWeather API to deliver weather-aware location recommendations, built with SOLID principles and clean architecture across presentation, domain, and data layers.
-**Tech:** `Java` · `OpenWeather API` — SOLID, clean architecture
+**Tech:** `Java` · `Swing`· `OpenWeather API` — SOLID, clean architecture
 🔗 [Repo](#)
 
 ---
@@ -62,8 +62,8 @@ A Java desktop app that integrates the OpenWeather API to deliver weather-aware 
 **Undergraduate Researcher** — UofT iSchool, COoKIE Lab (Prof. Anastasia Kuzminykh) · *Sep 2025 – present*
 Leading a study to develop a validation rubric for benchmarks that measure Theory of Mind in LLMs, synthesizing psychometric literature into a framework for assessing benchmark tasks.
 
-**Applied ML Research Assistant** — UofT Computer Science, IAI Lab · *May 2026 – present*
-Developing and deploying a hybrid recommender system combining contextual multi-armed bandits (reinforcement learning) with LLMs for adaptive mental health interventions, in collaboration with Stanford researchers. Also serving as a double-blind reviewer for a response-adaptive biostatistics literature review.
+**Research Assistant** — UofT Computer Science, IAI Lab · *May 2026 – present*
+Supporting the Development and deployment of a hybrid recommender system combining contextual multi-armed bandits (reinforcement learning) with LLMs for adaptive mental health interventions. Also serving as a double-blind reviewer for a response-adaptive biostatistics literature review.
 
 **Research Assistant** — OISE, Wisdom & Identity Lab · *May – Sep 2025*
 Translated moral-injury subcomponents into a predictive-processing framework in cognitive science and produced publication-quality literature reviews from clinically coded interview data.
