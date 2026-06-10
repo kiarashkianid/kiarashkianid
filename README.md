@@ -1,7 +1,6 @@
 # Hi, I'm Kiarash 👋
 
-**Statistics & Cognitive Science (Computational Stream)** @ University of Toronto · Math minor
-Interested in Applied ML · data science
+I am a 4th year student studying **Statistics & Cognitive Science (Computational Stream)** @ University of Toronto interested in **Applied ML and Data Science**.
 
 
 📫 **kiarash.kianidehkordi@mail.utoronto.ca**
